@@ -151,7 +151,7 @@ public class EstudiantesApp {
                 boolean volver = false;
                 while (!volver) {
                     System.out.println("""
-                            .:: Eliminar Estudiante ::.
+                            ***** Eliminar Estudiante *****
                             1. Eliminar por ID
                             2. Eliminar por cédula
                             3. Volver

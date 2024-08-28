@@ -147,7 +147,7 @@ public class EstudiantesApp {
                 else
                     System.out.println("No se pudo actualizar estudiante : " + editaEstudiante);
             }
-            case 5 -> { // Eliminar estudiante
+            case 5 -> { // Eliminar estudiant
                 boolean volver = false;
                 while (!volver) {
                     System.out.println("""
